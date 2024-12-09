@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1733245101 source:c:\users\gaona\desktop\proyecto 1711\1711 greed\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1717900209 c:\users\gaona\desktop\proyecto 1711\1711 greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733249907 c:\users\gaona\desktop\proyecto 1711\1711 greed\funciones_menu_jugadas.h
+	<string>
+
+1733252547 source:c:\users\gaona\desktop\proyecto 1711\1711 greed\funciones_menu_jugadas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	<fstream>
+	<string>
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1733258904 source:c:\users\gaona\desktop\proyecto 1711\1711 greed\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	<fstream>
+	<string>
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1733258016 c:\users\gaona\desktop\proyecto 1711\1711 greed\juego.h
+	<string>
+
+1733262823 source:c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\funciones_menu_jugadas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	<fstream>
+	<string>
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1717900209 c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733262823 c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\funciones_menu_jugadas.h
+	<string>
+
+1733258016 c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\juego.h
+	<string>
+
+1733262823 source:c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	<fstream>
+	<string>
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1733262823 source:c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"FUNCIONES_MENU_JUGADAS.h"
+	"juego.h"
+
+1733266358 source:c:\repos tp\repos recuperatorio rlutil 11111111\g r e e d 2024 3.12\ejercicio.cpp
+	<iostream>
+
+1733266495 source:c:\repos tp\ejejercicio\ejercicio.cpp
+	<iostream>
+
