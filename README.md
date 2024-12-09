@@ -9,7 +9,7 @@ Gestión de entradas y salidas en consola.
 Uso de estructuras de control y vectores.
 Desarrollo de una interfaz básica de menú.
 
-## Funcionalidades principales
+### Funcionalidades principales
 * Modo de juego para uno o dos jugadores.
 * Sistema de bloqueadores que elimina dados progresivamente en cada ronda.
 * Gestión de puntajes y estadísticas básicas.
